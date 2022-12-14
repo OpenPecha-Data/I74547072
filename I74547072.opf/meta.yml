@@ -1,0 +1,26 @@
+id: I74547072
+default_language: en-us
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 14:33:37.806268+00:00
+last_modified: 2022-12-14 14:33:37.806275+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-048-003
+  eft-text-version: 1.0.10 2021
+  title: Toh_103-The_Teaching_by_the_Child_Inconceivable_Radiance-v2
+bases:
+  8ADA:
+    source_metadata: null
+    order: 1
+    base_file: 8ADA.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
